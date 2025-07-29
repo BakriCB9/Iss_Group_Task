@@ -51,6 +51,7 @@ class AppTheme {
       ),
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
+          textStyle: TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
           padding: EdgeInsets.symmetric(horizontal: 20, vertical: 15),
           foregroundColor: AppColors.white,
           backgroundColor: AppColors.blue,
@@ -58,7 +59,9 @@ class AppTheme {
             borderRadius: BorderRadius.circular(20),
           ),
         ),
-      ));
+      ),
+      progressIndicatorTheme:
+          ProgressIndicatorThemeData(color: AppColors.white));
 }
 
 _getBoarder(Color color) {
