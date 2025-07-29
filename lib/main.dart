@@ -20,8 +20,7 @@ class MyApp extends StatelessWidget {
       title: 'Iss Group',
       theme: AppTheme.lightTheme,
       onGenerateRoute: RouteGenerator.getRoute,
-      initialRoute: Routes.login,
+      initialRoute: Routes.home,
     );
   }
 }
-

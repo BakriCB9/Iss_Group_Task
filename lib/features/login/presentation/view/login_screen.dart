@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:iss_task/core/utils/validator.dart';
-import 'package:iss_task/features/login/presentation/view_model/cubit/login_cubit_cubit.dart';
+import 'package:iss_task/features/login/presentation/view_model/cubit/login_cubit.dart';
 import 'package:iss_task/features/login/presentation/widget/custom_text_form_field.dart';
 import 'package:iss_task/features/login/presentation/widget/login_button.dart';
 

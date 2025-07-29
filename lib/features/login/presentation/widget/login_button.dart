@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:iss_task/core/constant/enum/status.dart';
 import 'package:iss_task/core/routes/routes.dart';
-import 'package:iss_task/features/login/presentation/view_model/cubit/login_cubit_cubit.dart';
+import 'package:iss_task/features/login/presentation/view_model/cubit/login_cubit.dart';
 
 class LoginButton extends StatelessWidget {
   const LoginButton({super.key});

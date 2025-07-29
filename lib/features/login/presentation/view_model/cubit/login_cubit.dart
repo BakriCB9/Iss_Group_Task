@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:injectable/injectable.dart';
 import 'package:iss_task/core/constant/enum/status.dart';
 
-part 'login_cubit_state.dart';
+part 'login_state.dart';
 
 @injectable
 class LoginCubit extends Cubit<LoginState> {

@@ -1,0 +1,58 @@
+{
+ "project": [
+    {
+    "project_name": "E-commerce Website Development",
+    "image": "https://argaamplus.s3.amazonaws.com/53380a09-71b2-4ff9-b58d-587a2d9b0c2d.png",
+    "start_date": "2024-01-10",
+    "end_date": "2024-04-15",
+    "work_hours": 320,
+    "description": "A project to develop a fully integrated e-commerce platform supporting online payments and shipment tracking.",
+    "company_name": "Modern Tech Company"
+  },
+  {
+    "project_name": "Human Resources Management System",
+    "image": "https://lirp.cdn-website.com/537b6562/dms3rep/multi/opt/Information+Systems+in+Human+Resource+Management-640w.jpg",
+    "start_date": "2024-05-01",
+    "end_date": "2024-07-30",
+    "work_hours": 280,
+    "description": "Development of an HR system to manage employee data, leaves, and payroll.",
+    "company_name": "Smart Future Solutions"
+  },
+  {
+    "project_name": "Fitness Tracking App",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*TQ52uYhJRSh21QeO8WuGpw.png",
+    "start_date": "2024-08-15",
+    "end_date": "2024-11-20",
+    "work_hours": 250,
+    "description": "Design and development of a mobile app for tracking fitness activities and wellness routines.",
+    "company_name": "Health Plus Technologies"
+  },
+  {
+    "project_name": "Inventory Management Dashboard",
+    "image": "https://www.gooddata.com/img/blog/_2000xauto/inventory-management-dashboard-gooddata-cloud.png.webp",
+    "start_date": "2025-01-05",
+    "end_date": "2025-03-28",
+    "work_hours": 210,
+    "description": "A web-based dashboard to manage and track inventory across multiple warehouse locations.",
+    "company_name": "LogiTech Solutions"
+  },
+  {
+    "project_name": "Online Learning Platform",
+    "image": "https://www.cae.net/wp-content/uploads/2019/06/laptop-with-blank-white-screen-scaled.jpg",
+    "start_date": "2024-09-01",
+    "end_date": "2025-01-10",
+    "work_hours": 400,
+    "description": "Platform for hosting online courses with video lectures, quizzes, and progress tracking.",
+    "company_name": "EduCore Systems"
+  },
+  {
+    "project_name": "Mobile Banking App",
+    "image": "https://moneyview.in/images/blog/wp-content/uploads/2017/11/Blog-Top-Mobile-banking-apps.jpg",
+    "start_date": "2024-11-01",
+    "end_date": "2025-03-15",
+    "work_hours": 370,
+    "description": "Secure mobile banking application allowing users to manage accounts, transfer funds, and receive notifications.",
+    "company_name": "SafeBank Technologies"
+  }
+]
+}
