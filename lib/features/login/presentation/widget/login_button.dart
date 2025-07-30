@@ -18,7 +18,7 @@ class LoginButton extends StatelessWidget {
           child: BlocConsumer<LoginCubit, LoginState>(
             listener: (context, state) {
               if (state.status == Status.success) {
-                Navigator.of(context).pushNamed(Routes.home);
+                Navigator.of(context).pushReplacementNamed(Routes.homeScreen);
               }
             },
             builder: (context, state) {

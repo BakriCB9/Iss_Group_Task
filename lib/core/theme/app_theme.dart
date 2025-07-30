@@ -60,6 +60,9 @@ class AppTheme {
           ),
         ),
       ),
+      textButtonTheme: TextButtonThemeData(
+          style: ButtonStyle(
+              foregroundColor: WidgetStatePropertyAll(AppColors.white))),
       progressIndicatorTheme:
           ProgressIndicatorThemeData(color: AppColors.white));
 }
